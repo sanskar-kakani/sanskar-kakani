@@ -1,6 +1,4 @@
 <div align="center">
-<img align="center" height="200px" width="400px" src="https://github.com/shivam1317/shivam1317/blob/main/273152153_276956157871047_5000497609934890823_n.png"/>
-</div>
 <h1 align="center">Hi, I'm Sanskar Kakani</h1>
 <h3 align="center">I am Full stack WEB and APP developer</h3>
 </div>
@@ -34,8 +32,8 @@
 ## 📬 Get in touch
 
 <p>
-<a href="https://linkedin.com/in/sanskar-kakani" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://dsc.gg/w3_4re_n00bs" target="_blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord&theme=dark" height="30" width="40" alt="discord"/></a>
+<h3>sanskarkakani01@gmail.com</h3> 
+<h3>https://www.linkedin.com/in/sanskar-kakani</h3>   
 </p>
 
 ----
