@@ -3,13 +3,6 @@
 </div>
 <h1 align="center">Hi, I'm Sanskar Kakani</h1>
 <h3 align="center">I am Full stack WEB and APP developer</h3>
-<div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=shivam1317&label=Profile%20views&color=023e8a&style=flat" alt="shivam1317" /> </p>
-  </div>
-<div align="center">
-  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
-<a href="https://0xsh1v4m.netlify.app/" target="_blank" align="center">My Portfolio</a>
-  <img src="https://cdn.discordapp.com/emojis/619643456310083656.gif?size=160&quality=lossless" align="center" height="25px" width="25px"/>
 </div>
 
 -----
@@ -28,7 +21,7 @@
 
 ### Databases
 
-![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase,sql&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=mongodb,firebase,sqlite&theme=dark)
 
 ### Tools
 
